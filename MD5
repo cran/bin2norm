@@ -1,0 +1,15 @@
+8bac31bf7c2e7013b3294967d67b78a5 *DESCRIPTION
+1d597426b02f5cbfde3db2bf83a19d9d *LICENSE
+5aed72de1c99b672fe887bf730de1b39 *NAMESPACE
+19f87dab854480878b73698ba7894221 *R/bin2norm.R
+86060f670b595cd9a75bb60f64063443 *README.md
+4ec0c601f431f27c5e1993b603608add *inst/WORDLIST
+a1ca830f4c50164a57c463a3e2073b5b *man/bin2norm.Rd
+a22865f7feb68116bef681cd2eed6bbc *man/estimate_initial_values_from_data.Rd
+8d8178c44a0a7711a793e8cede9b629e *man/estimate_multiThresh_GLMM.Rd
+4e3446491cf04f0839d9b5477e8d374f *man/estimate_multiThresh_MCMC.Rd
+b2bafdf90437b9bb7a89bdafae704de3 *man/estimate_multiThresh_MLE.Rd
+6fa2598a9282a5fc90f927f5c642b552 *man/estimate_singleThresh_MLE.Rd
+13902506b74c865b7eb55ef026df6d74 *man/estimate_singleThresh_WOLS.Rd
+9ec54e6b1cd82fae832941f86eb0e3b6 *man/estimate_singleThresh_probit.Rd
+5d34e8286e049233858e6031026e7292 *man/gaussHermite.Rd
