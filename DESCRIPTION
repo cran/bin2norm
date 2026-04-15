@@ -1,8 +1,14 @@
 Package: bin2norm
 Title: Hierarchical Probit Estimation for Dichotomized Data
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
-    person("Zhaoze", "Liu", role = c("aut", "cre"), email = "786633848@qq.com")
+    c(
+      person("Zhaoze", "Liu", role = "aut", email = "786633848@qq.com"),
+      person("Longwen", "Shang", role = "aut"),
+      person("Mary", "Lesperance", role = "aut", email = "mlespera@uvic.ca"),
+      person("Shuqing", "Zhou", role = "aut"),
+      person("Xuekui", "Zhang", role = c("aut", "cre", "fnd"), email = "xuekui@uvic.ca")
+    )
 Description: Provides likelihood-based and hierarchical estimation methods
     for thresholded (binomial-probit) data. Supports fixed-mean and random-mean
     models with maximum likelihood estimation (MLE), generalized linear mixed model
@@ -15,8 +21,12 @@ Encoding: UTF-8
 RoxygenNote: 7.3.3
 Imports: lme4, rstan, stats, statmod
 NeedsCompilation: no
-Packaged: 2025-11-12 18:52:57 UTC; zhaoze
-Author: Zhaoze Liu [aut, cre]
-Maintainer: Zhaoze Liu <786633848@qq.com>
+Packaged: 2026-04-15 04:14:22 UTC; zhaoze
+Maintainer: Xuekui Zhang <xuekui@uvic.ca>
+Author: Zhaoze Liu [aut],
+  Longwen Shang [aut],
+  Mary Lesperance [aut],
+  Shuqing Zhou [aut],
+  Xuekui Zhang [aut, cre, fnd]
 Repository: CRAN
-Date/Publication: 2025-11-17 21:10:13 UTC
+Date/Publication: 2026-04-15 07:00:19 UTC
